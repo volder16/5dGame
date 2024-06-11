@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ba8722b6b0c33545b4429dd17e32006, type: 3}
+  m_Name: Player Stat
+  m_EditorClassIdentifier: 
+  Speed: 4
+  AdditionalDamage: 2
+  Health: 50
+  MaxHealth: 80
+  Money: 784
+  MoneyMultipler: 1
+  AttackDelay: 3
+  <DefSpeed>k__BackingField: 1
+  <DefAdditionalDamage>k__BackingField: 2
+  <DefMaxHealth>k__BackingField: 50
+  <DefHealth>k__BackingField: 50
+  <DefMoney>k__BackingField: 1000
+  <DefMoneyMultipler>k__BackingField: 1
+  <DefAttackDelay>k__BackingField: 3
+  <StartUpdateHealth>k__BackingField: 12
+  <StartUpdateDamage>k__BackingField: 100
+  <StartUpdateSpeed>k__BackingField: 15
+  <StartUpdateAtkSpeed>k__BackingField: 15
+  <StartUpdateMoney>k__BackingField: 20
+  <HealthLevel>k__BackingField: 4
+  <DamageLevel>k__BackingField: 1
+  <SpeedLevel>k__BackingField: 7
+  <AtkSpeedLevel>k__BackingField: 1
+  <MoneyLevel>k__BackingField: 1
+  stat: {fileID: 0}
